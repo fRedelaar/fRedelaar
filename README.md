@@ -1,5 +1,5 @@
 - 👋 Hi! I'm Felicia Redelaar.
-- 🌱	 I’m currently finishing up a Bachelor of Science program majoring in Computer Science and Economics in the Netherlands.
+- 🌱 I’m currently working on a Masters of Science program in Computer Science in the Netherlands.
 - 💬 I'm into front end development and building stuff with Python, HTML, CSS, Javascript and Typescript! I also dig frameworks like Angular and React.
 - ⚡ Fun fact: I collect guitars, and guitar pedals! 
 <!--
