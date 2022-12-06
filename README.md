@@ -1,6 +1,6 @@
 - 👋 Hi! I'm Felicia Redelaar.
 - 🌱 I’m currently working on a Masters of Science program in Computer Science in the Netherlands.
-- 💬 I'm into front end development and data science/Machine learning/AI projects! 
+- 💬 I'm into front end development and Data science/Machine learning/AI/DevOps projects! 
 - ⚡ Fun fact: I collect guitars, and guitar pedals! 
 <!--
 **fRedelaar/fRedelaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
